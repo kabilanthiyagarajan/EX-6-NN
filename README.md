@@ -1,5 +1,5 @@
-<H3>NAME: Dharini PV</H3>
-<H3>REGISTER NO: 212222240024</H3>
+<H3>NAME: kabilan T PV</H3>
+<H3>REGISTER NO: 212222230059</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
